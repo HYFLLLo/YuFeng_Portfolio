@@ -10,13 +10,13 @@ const Hero = () => {
         YuFen｜AI 产品经理
       </p>
       <h1 className="mb-4 max-w-3xl text-4xl font-bold leading-tight text-foreground sm:text-5xl">
-        用 AI 与产品思维
+        希望用 AI 与产品思维
         <span className="block bg-gradient-to-r from-accent-start via-pink-500 to-accent-end bg-clip-text text-transparent">
           落地有价值的智能产品
         </span>
       </h1>
       <p className="mb-8 max-w-2xl text-base text-foreground/80 sm:text-lg">
-        关注从 0 到 1 的产品规划与从 1 到 N 的持续迭代，擅长结合业务目标与技术可行性，驱动 AI 产品真正解决用户问题、创造可量化的业务价值。
+       欢迎来到我的 AI 产品世界。这里汇集了我主导并设计的AI产品项目，让我们探索 AI 边界，落地产品价值。。
       </p>
       <div className="flex flex-wrap gap-4">
         <a
