@@ -16,7 +16,7 @@ const Hero = () => {
         </span>
       </h1>
       <p className="mb-8 max-w-2xl text-base text-foreground/80 sm:text-lg">
-       欢迎来到我的 AI 产品世界。这里汇集了我主导并设计的AI产品项目，让我们探索 AI 边界，落地产品价值。。
+       欢迎来到我的 AI 产品世界。这里汇集了我主导并设计的AI产品项目，让我们探索 AI 边界，落地产品价值。
       </p>
       <div className="flex flex-wrap gap-4">
         <a
