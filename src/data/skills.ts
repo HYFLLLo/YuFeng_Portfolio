@@ -5,15 +5,14 @@ export type Skill = {
 
 // 技能标签列表，方便后续扩展
 const skills: Skill[] = [
-  { name: 'React / React Router', level: '精通' },
-  { name: 'TypeScript', level: '精通' },
-  { name: 'Tailwind CSS', level: '熟练' },
-  { name: 'Vite / 构建优化', level: '熟练' },
-  { name: 'Framer Motion / 动效', level: '熟练' },
-  { name: '可访问性 / Lighthouse', level: '良好' },
-  { name: '性能优化 / 懒加载', level: '良好' },
-  { name: 'UI/UX 协作', level: '良好' },
-  { name: '单元测试 / 集成测试', level: '良好' },
+  { name: '大模型应用架构', level: '了解' },
+  { name: 'Prompt工程与治理', level: '熟练' },
+  { name: '数据闭环体系设计', level: '了解' },
+  { name: 'AI指标体系与度量', level: '良好' },
+  { name: 'AI交互设计', level: '良好' },
+  { name: '产品需求文档(PRD)撰写', level: '良好' },
+  { name: '机器学习工程流程', level: '良好' },
+  { name: '数据查询与分析', level: '了解' },
 ]
 
 export default skills
