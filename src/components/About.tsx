@@ -16,7 +16,7 @@ const About = ({ skills }: Props) => {
         </div>
       </div>
       <p className="max-w-3xl text-base leading-relaxed text-foreground/85">
-        你好，我是 YuFen，一名 AI 产品经理，关注大模型与智能应用在真实业务场景中的落地。
+        你好，我是 YuFeng，一名 AI 产品经理，关注大模型与智能应用在真实业务场景中的落地。
         我习惯从用户需求与业务目标出发，与技术团队紧密协作，推动从概念验证（PoC）、最小可行产品（MVP）到完整产品的全链路过程。
         同时重视数据闭环与指标设计，让每一次功能迭代都有清晰的验证方式与量化结果。
       </p>
