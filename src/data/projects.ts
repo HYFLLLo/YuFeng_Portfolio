@@ -13,7 +13,7 @@ const projects: Project[] = [
     title: '企业级智能决策分析系统',
     description: '这是一个面向企业级智能决策的数据分析系统，集成了大模型推理、数据分析和知识库管理功能。系统通过分析销售、客户、市场和产品数据，结合企业知识库信息，为企业用户提供智能化的决策建议。核心功能包括智能数据分析（销售趋势、客户细分、市场竞争、产品性能分析）、大模型推理（基于Qwen3-8B生成决策建议）、知识库管理（企业政策、行业知识、销售技巧）、向量搜索和数据可视化。系统采用本地部署模式，确保数据安全，同时通过模块化设计提供良好的可扩展性。',
     stack: ['Streamlit', 'Python', 'Pandas、Matplotlib、Seaborn','LangChain、Ollama、Qwen3-8B','Chroma'],
-    image: '-',
+    image: 'https://ibb.co/C3R4SWMn',
     link: '-',
     repo: 'https://github.com/HYFLLLo/DataAnalysiser',
   },
