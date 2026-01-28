@@ -12,11 +12,11 @@ const About = ({ skills }: Props) => {
         <div className="h-10 w-10 rounded-full bg-gradient-to-br from-accent-start to-accent-end opacity-80" />
         <div>
           <h2 className="text-2xl font-semibold">关于我</h2>
-          <p className="text-sm text-foreground/70">YuFen｜AI 产品经理</p>
+          <p className="text-sm text-foreground/70">YuFen｜求职意向：AI 产品经理</p>
         </div>
       </div>
       <p className="max-w-3xl text-base leading-relaxed text-foreground/85">
-        你好，我是 YuFeng，一名 AI 产品经理，关注大模型与智能应用在真实业务场景中的落地。
+        你好，我是 YuFeng，一个AI产品的极客体验派。
         我习惯从用户需求与业务目标出发，与技术团队紧密协作，推动从概念验证（PoC）、最小可行产品（MVP）到完整产品的全链路过程。
         同时重视数据闭环与指标设计，让每一次功能迭代都有清晰的验证方式与量化结果。
       </p>
